@@ -1,0 +1,19 @@
+/* homepage styles  */
+.home-background {
+  background-color: #d8e2f1 !important;
+  color: #511faf;
+  background-position: top;
+  background-size: contain;
+  background-blend-mode: difference;
+  background-repeat: no-repeat;
+}
+.hero-paragraph {
+  color: blueviolet;
+}
+
+.home-service-background {
+  background-color: #dbfaff !important;
+}
+.service-title {
+  color: maroon;
+}
